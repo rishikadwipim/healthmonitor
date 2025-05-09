@@ -24,3 +24,5 @@ Structure
 healthmonitor/
 ├── app/ (Wear OS code)
 ├── datafromwatch/ (JSON, Python scripts)
+
+![Project Outline](images/projectoutline.jpg)
